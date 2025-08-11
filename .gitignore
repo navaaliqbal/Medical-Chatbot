@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+.env
+*.log
+
+# Mac/Windows hidden files
+.DS_Store
+Thumbs.db
